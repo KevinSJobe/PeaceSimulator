@@ -27,7 +27,7 @@ Built with [Streamlit](https://streamlit.io), the model formalizes Mendieta’s 
 ## 🚀 Launch the App
 
 Click the link below to try it live:  
-👉 [)
+👉 [(https://peacesimulator.streamlit.app/)]
 
 ---
 
@@ -43,6 +43,7 @@ Click the link below to try it live:
 
 - `peace_app.py` – Main Streamlit app.
 - `requirements.txt` – Package dependencies for deployment.
+- 'Simulated_Peace_Dataset.csv'
 
 ---
 
