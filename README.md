@@ -27,7 +27,7 @@ Built with [Streamlit](https://streamlit.io), the model formalizes Mendieta’s 
 ## 🚀 Launch the App
 
 Click the link below to try it live:  
-👉 [https://your-streamlit-app-url](https://your-streamlit-app-url)
+👉 [)
 
 ---
 
