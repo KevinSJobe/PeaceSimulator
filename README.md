@@ -58,12 +58,39 @@ Where:
 
 ## 👨‍🏫 Author
 
-This app was created as part of a research project modeling peace through the lens of critical theory and computational modeling.
+**Dr. Kevin S. Jobe**  
+Assistant Professor of Philosophy  
+University of Texas–Rio Grande Valley  
+Edinburg, TX
+
+This app was created as part of a research project on **Eduardo Mendieta's conception of peace and war**.
+
+---
+
+## 📖 Citations
+
+This project draws on the following works by Eduardo Mendieta:
+
+- Mendieta, Eduardo. *The Philosophical Animal: On Zoopoetics and Interspecies Cosmopolitanism*. Stony Brook: SUNY Press, 2024, pp. 105–106.
+- Mendieta, Eduardo. “The Unfinished Revolution: The Right to Have Rights and Birthright Citizenship.” In *Another Universalism: Seyla Benhabib and the Future of Critical Theory*, edited by Stefan Eich, Anna Jurkevics, Nishin Nathwani, and Nica Siegel, pp. 254–276. New York: Columbia University Press, 2023. https://doi.org/10.7312/eich21278-016
+- Mendieta, Eduardo. “Chronotopology: Critique of Spatio-Temporal Regimens.” In *New Critical Theory: Essays on Liberation*, edited by Jeffrey Paris and William Wilkerson, pp. 175–197. New York: Rowman & Littlefield, 2001.
+- Mendieta, Eduardo, Lenart Škof, Klaus-Gerd Giesen, and Carool Kersten. “Peace Is Not the Absence of War: The Vernaculars of the Humanum.” In *The Poesis of Peace*, vol. 1, pp. 13–26. Routledge, 2017. https://doi.org/10.4324/9781315554617-3
+- Mendieta, Eduardo. “Migrant, Migra, Mongrel: The Latin American Dishwasher, Busboy, and Colored/Ethnic/Diversity (Philosophy) Hire.” In *Reframing the Practice of Philosophy: Bodies of Color, Bodies of Knowledge*, edited by George Yancy, pp. 147–166. State University of New York Press, 2012.
+- Mendieta, Eduardo. “Philosophy after Hiroshima.” *Philosophy East & West*, University of Hawaii Press, 2012. https://doi.org/10.1353/pew.2012.0052
+- Mendieta, Eduardo. “Land and Sea.” In *Spatiality, Sovereignty and Carl Schmitt: Geographies of the Nomos*, pp. 260–267. Taylor and Francis, 2011.
+- Mendieta, Eduardo. “War the School of Space: The Space of War and the War for Space.” *Ethics, Place and Environment* 9(2): 207–229, 2006. https://doi.org/10.1080/13668790600694519
+
+---
+
+## 📁 Files
+
+- `peace_app.py` – Main Streamlit app.
+- `requirements.txt` – Python dependencies for deployment.
+- `README.md` – This file.
 
 ---
 
 ## 📝 License
 
-Open-source under MIT License. Use freely for academic or non-commercial purposes.
-
+This repository is open-sourced under the MIT License. Use and adapt for academic, educational, or non-commercial purposes.
 
