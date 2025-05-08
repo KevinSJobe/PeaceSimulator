@@ -2,9 +2,9 @@
 Peace Simulator based on Mendieta's social physics of peace
 # 🕊️ Peace Score Simulator
 
-This interactive web app models **Eduardo Mendieta's postulate of peace** using a neural network. It allows users to adjust key sociopolitical variables—like legal structure, memory, moral outrage, and democracy—and see a **predicted peace score** in real time.
+This interactive web app models **Eduardo Mendieta's formula of peace** using a neural network. It allows users to adjust key sociopolitical variables—like legal structure, memory, moral outrage, and democracy—and see a **predicted peace score** in real time.
 
-Built with [Streamlit](https://streamlit.io), the model formalizes Mendieta’s theory:
+Built with [Streamlit](https://streamlit.io), the model formalizes Mendieta’s account of peace:
 
 > *"Peace is not the absence of war, but a function of the spatiotemporal ordering of a legal order that is subject to revision through collective memory, moral outrage, and democratic struggle."*
 
