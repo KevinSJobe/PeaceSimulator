@@ -48,5 +48,22 @@ Click the link below to try it live:
 
 ## 📚 Theoretical Background
 
-This project operationalizes Mendieta's peace formula:
+This project operationalizes Mendieta's peace formula:P = f(𝓛(x, t), R(M, O, D))
+
+Where:
+- `𝓛(x, t)`: Legal Order across space and time.
+- `R(M, O, D)`: Revision function based on Memory, Outrage, and Democratic struggle.
+
+---
+
+## 👨‍🏫 Author
+
+This app was created as part of a research project modeling peace through the lens of critical theory and computational modeling.
+
+---
+
+## 📝 License
+
+Open-source under MIT License. Use freely for academic or non-commercial purposes.
+
 
